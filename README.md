@@ -1,4 +1,4 @@
-# cpp-battleships
+# c-battleships
 
 Schiffeversenken als Terminal-Spiel in C, entstanden als Projekt im Modul "Prozedurale Programmierung". Gespielt wird gegen einen Computergegner auf zwei 10x10-Spielfeldern.
 
